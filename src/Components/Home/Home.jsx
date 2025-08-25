@@ -64,7 +64,7 @@ const Home = () => {
 
   useEffect(() => {
     
-    document.title = 'SGCodes - About Me';
+    document.title = 'Codency';
 
     const handleScroll = () => {
       const scrollTop = document.documentElement.scrollTop;
@@ -1078,7 +1078,7 @@ const Home = () => {
         </div>
       </section>
       <section>
-        <div className="about-section-7 py-16 bg-homeblack">
+        <div className="about-section-7 py-16 bg-homeblack hidden">
           <div className="about-section-7-inner">
             <div className="container">
               <div className="grid-cols-5 grid gap-10 items-center inner-about-section-7-grid">

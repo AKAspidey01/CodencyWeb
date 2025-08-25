@@ -24,12 +24,22 @@ import sketch from '../../assets/images/aboutme-images/apps-used/sketch.svg';
 
 
 // About Work Images
-import bodha from '../../assets/images/myProjects/bodha.png';
-import saurabh from '../../assets/images/myProjects/saurabh.png';
-import jobpakado from '../../assets/images/myProjects/jobpakado.png'
-import bloom from '../../assets/images/myProjects/bloom.png';
-import autoimmune from '../../assets/images/myProjects/autoimmune.png';
-import nexevolve from '../../assets/images/myProjects/nexevolve.png'
+// import bodha from '../../assets/images/myProjects/bodha.png';
+// import saurabh from '../../assets/images/myProjects/saurabh.png';
+// import jobpakado from '../../assets/images/myProjects/jobpakado.png'
+// import bloom from '../../assets/images/myProjects/bloom.png';
+// import autoimmune from '../../assets/images/myProjects/autoimmune.png';
+// import nexevolve from '../../assets/images/myProjects/nexevolve.png'
+
+
+import localmart from '../../assets/images/myProjects/project-images/localmart.png';
+import whitetower from'../../assets/images/myProjects/project-images/whitetower.png';
+import jobpakado from '../../assets/images/myProjects/project-images/jobpakado.png'
+import bloom from '../../assets/images/myProjects/project-images/bloom.png';
+import autoimmune from '../../assets/images/myProjects/project-images/autoimmune.png';
+import nexevolve from '../../assets/images/myProjects/project-images/nexevolve.png';
+import Bodha from '../../assets/images/myProjects/project-images/bodha-homes.png'
+import Raremistique from '../../assets/images/myProjects/project-images/rare-mistique.png'
 
 
 // Testimonials Images
@@ -161,37 +171,36 @@ const AboutAppsUsed = [
 
 
 const AboutMyWorkBlock = [
-    {
-        siteName: 'Nexevolve',
-        link: 'https://nexevolve.com/',
-        image: nexevolve
-    },
-
-    {
-        siteName: 'Bodha Homes',
-        link: 'https://bodhahomesinfra.com/',
-        image: bodha
-    },
-    {
-        siteName: 'Job Pakado',
-        link: 'https://jobpakado.com/',
-        image: jobpakado
-    },
-    {
-        siteName: 'Saurabh Chhariah',
-        link: 'https://masterclass.saurabhchharia.com/',
-        image: saurabh
-    },
-    {
-        siteName: 'Bloom',
-        link: 'https://bloomfitnesswear.com/',
-        image: bloom
-    },
-    {
-        siteName: 'Autoimmune',
-        link: 'https://autoimmunehn.com/',
-        image: autoimmune
-    },
+     {
+      siteName: 'Localmart',
+      link: 'https://localmart.app/',
+      image: localmart
+  },
+  {
+      siteName: 'White Tower',
+      link: 'https://whitetowerinternational.com/',
+      image: whitetower
+  },
+  {
+      siteName: 'Nexevolve',
+      link: 'https://raremystique.netlify.app/',
+      image: Raremistique
+  },
+  {
+      siteName: 'Job Pakado',
+      link: 'https://bodhahomesinfra.com/',
+      image: Bodha
+  },
+  {
+      siteName: 'Bloom',
+      link: 'https://bloomfitnesswear.com/',
+      image: bloom
+  },
+  {
+      siteName: 'Autoimmune',
+      link: 'https://autoimmunehn.com/',
+      image: autoimmune
+  },
 
 ]
 
