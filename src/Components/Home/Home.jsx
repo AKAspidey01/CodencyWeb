@@ -314,7 +314,7 @@ const Home = () => {
                       <div className="about-3-bottom-text mt-6">
                         <div className="name-sec-about-3 text-center">
                           <h2 className='font-Manrope text-3xl font-bold text-homeblack'>Sai Ganesh</h2>
-                          <p className='text-lg font-Manrope opacity-70'>sg83362@gmail.com</p>
+                          <p className='text-lg font-Manrope opacity-70'>codency.web@gmail.com</p>
                         </div>
                         <div className="social-about-3-section flex flex-wrap justify-center gap-y-4 mt-10">
                           {aboutData.AboutSocialIcons.map((items , index) => {
@@ -464,7 +464,7 @@ const Home = () => {
                       <div className="about-3-bottom-text mt-6">
                         <div className="name-sec-about-3 text-center">
                           <h2 className='font-Manrope text-3xl font-bold text-homeblack'>Sai Ganesh</h2>
-                          <p className='text-lg font-Manrope opacity-70'>sg83362@gmail.com</p>
+                          <p className='text-lg font-Manrope opacity-70'>codency.web@gmail.com</p>
                         </div>
                         <div className="bottom-about-3-download-cv text-center mt-5" >
                           <button type="button" onClick={handleDownload} className='text-white bg-homeblack overflow-hidden relative group font-DmSans font-semibold rounded-full  w-44 h-12 text-center flex items-center justify-center mx-auto'>
@@ -617,7 +617,7 @@ const Home = () => {
                         <div className="about-3-bottom-text flex justify-between items-center">
                           <div className="name-sec-about-3 text-left">
                             <h2 className='font-Manrope text-2xl font-bold text-homeblack'>Sai Ganesh</h2>
-                            <p className='text-base font-Manrope opacity-70'>sg83362@gmail.com</p>
+                            <p className='text-base font-Manrope opacity-70'>codency.web@gmail.com</p>
                           </div>
                         </div>
                       </div>                      
@@ -1224,7 +1224,7 @@ const Home = () => {
                             </div>
                             <div className="email-para-blk">
                               <h4 className='font-Manrope '>Email</h4>
-                              <a href='mailto:sg83362@gmail.com' className='font-DmSans text-homeblack text-2xl'>sg83362@gmail.com</a>
+                              <a href='mailto:codency.web@gmail.com' className='font-DmSans text-homeblack text-2xl'>codency.web@gmail.com</a>
                             </div>
                           </div>
                           <div className="email-add-section flex items-center gap-4">
@@ -1233,7 +1233,7 @@ const Home = () => {
                             </div>
                             <div className="email-para-blk">
                               <h4 className='font-Manrope '>Phone</h4>
-                              <a href='tel:+919014579785' className='font-DmSans no-underline inline-block text-homeblack text-2xl'>+91 9014579785</a>
+                              <a href='tel:+919550887779' className='font-DmSans no-underline inline-block text-homeblack text-2xl'>+91 955 088 7779</a>
                             </div>
                           </div>
                           <div className="email-add-section flex items-center gap-4">
@@ -1260,14 +1260,14 @@ const Home = () => {
                                   <i className="bi bi-envelope-at text-homeblack  text-xl"></i>
                                   <h4 className='font-Manrope '>Email</h4>
                                 </div>
-                                <a href='mailto:sg83362@gmail.com' className='font-DmSans text-homeblack text-2xl'>sg83362@gmail.com</a>
+                                <a href='mailto:codency.web@gmail.com' className='font-DmSans text-homeblack text-2xl'>codency.web@gmail.com</a>
                               </div>
                               <div className="email-para-blk">
                                 <div className="icon-heading-lable-contact mb-2 flex items-center gap-2">
                                   <i className="bi bi-telephone text-homeblack text-xl"></i>
                                   <h4 className='font-Manrope '>Phone</h4>
                                 </div>
-                                <a href='tel:+919014579785' className='font-DmSans no-underline inline-block text-homeblack text-2xl'>+91 9014579785</a>
+                                <a href='tel:+919550887779' className='font-DmSans no-underline inline-block text-homeblack text-2xl'>+91 955 088 7779</a>
                               </div>
                               <div className="email-para-blk">
                                 <div className="icon-heading-lable-contact mb-2 flex items-center gap-2">
@@ -1288,14 +1288,14 @@ const Home = () => {
                                 <i className="bi bi-envelope-at text-homeblack  text-xl"></i>
                                 <h4 className='font-Manrope '>Email</h4>
                               </div>
-                              <a href='mailto:sg83362@gmail.com' className='font-DmSans text-homeblack text-2xl'>sg83362@gmail.com</a>
+                              <a href='mailto:codency.web@gmail.com' className='font-DmSans text-homeblack text-2xl'>codency.web@gmail.com</a>
                             </div>
                             <div className="email-para-blk">
                               <div className="icon-heading-lable-contact mb-2 flex items-center gap-2">
                                 <i className="bi bi-telephone text-homeblack text-xl"></i>
                                 <h4 className='font-Manrope '>Phone</h4>
                               </div>
-                              <a href='tel:+919014579785' className='font-DmSans no-underline inline-block text-homeblack text-2xl'>+91 9014579785</a>
+                              <a href='tel:+919550887779' className='font-DmSans no-underline inline-block text-homeblack text-2xl'>+91 955 088 7779</a>
                             </div>
                             <div className="email-para-blk">
                               <div className="icon-heading-lable-contact mb-2 flex items-center gap-2">
